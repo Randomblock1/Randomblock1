@@ -1,12 +1,10 @@
 ### Hi there! 👋
 ![](https://komarev.com/ghpvc/?username=randomblock1)
 
-[![Randomblock1's github stats](https://github-readme-stats.vercel.app/api?username=randomblock1)](https://github.com/anuraghazra/github-readme-stats)
+I'm just a guy who enjoys jailbreaking and learning new things. Currently, I'm learning Python.
 
-I'm just some guy who enjoys jailbreaking and whatnot. I occasionally do some other stuff too.
+Follow me on my [Twitter](https://twitter.com/randomblock1_) and visit [my website](https://randomblock1.com/).
 
-Also, I have [a website](https://randomblock1.com/)!
+You can contact me by sending a DM over Twitter or emailing me at randomblock1@pm.me.
 
-I mainly post stuff on my [Twitter](https://twitter.com/randomblock1_), so make sure to follow that if you want to see what I'm up to.
-
-###### I'm sure this page will have a purpose, eventually.
+###### Here is my public key: [0x45819b3420fbe5b9b8cdb0941f542e6c01c643f4](https://keyserver.ubuntu.com/pks/lookup?search=0x45819b3420fbe5b9b8cdb0941f542e6c01c643f4&fingerprint=on&op=index)

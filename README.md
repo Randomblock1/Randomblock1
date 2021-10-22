@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I enjoy jailbreaking and learning new things. Currently, I'm learning Python.
+I enjoy learning and experimenting with new things. Currently, I'm learning Python and Go.
 
 Follow me on my [Twitter](https://twitter.com/randomblock1_) and visit [my website](https://randomblock1.com/).
 

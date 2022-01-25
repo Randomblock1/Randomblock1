@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I enjoy learning and experimenting with new things. Currently, I'm learning Python and Go.
+I enjoy learning and experimenting with new things. Currently, I'm learning Python and JavaScript.
 
 Follow me on my [Twitter](https://twitter.com/randomblock1_) and visit [my website](https://randomblock1.com/).
 

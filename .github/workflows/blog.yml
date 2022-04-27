@@ -1,0 +1,18 @@
+name: Blog integration
+on:
+  schedule:
+    # Runs every 4 hours
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+
+jobs:
+  readme-blog-update:
+    name: Update README with blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOG"
+          commit_message: "Updated readme with latest blog data"
+          feed_list: "https://randomblock1.com/feed.xml"

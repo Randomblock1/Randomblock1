@@ -55,8 +55,9 @@ Click the badge to contact me.
 
 ## 💸 College is expensive
 
+[![sponsor](https://img.shields.io/badge/Sponsor-black?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Randomblock1)
 [![kofi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/randomblock1)
-[![bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](bitcoin:3Fjdv1arq377tffSo9zCAC3bdbTGwzZXkJ)
+[![bitcoin](https://img.shields.io/badge/Bitcoin-orange?style=for-the-badge&logo=bitcoin&logoColor=white)](bitcoin:3Fjdv1arq377tffSo9zCAC3bdbTGwzZXkJ)
 
 ## 📊 Stats
 

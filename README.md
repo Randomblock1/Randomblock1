@@ -53,16 +53,10 @@ Click the badge to contact me.
 ![rtx 3070](https://img.shields.io/badge/RTX_3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![ryzen 5 5600](https://img.shields.io/badge/Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
-## 💸 College is expensive
-
-[![sponsor](https://img.shields.io/badge/Sponsor-black?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Randomblock1)
-[![kofi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/randomblock1)
-[![bitcoin](https://img.shields.io/badge/Bitcoin-orange?style=for-the-badge&logo=bitcoin&logoColor=white)](bitcoin:3Fjdv1arq377tffSo9zCAC3bdbTGwzZXkJ)
-
 ## 📊 Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=randomblock1&theme=blue-green)
 
-![badges](https://img.shields.io/badge/badges_put_here-19-blue?style=for-the-badge)
+![badges](https://img.shields.io/badge/badges_put_here-18-blue?style=for-the-badge)
 
 ![](https://hit.yhype.me/github/profile?user_id=19873803)

@@ -8,12 +8,6 @@
 
 I'm Benjamin Gonzalez. I enjoy learning, coding, experimenting, and video games. I'm going to attend the University of Wisconsin-Madison as a Computer Science student. I'll occasionally write a blog post or two.
 
----
-
-![animated svg](animated.svg)
-
----
-
 ## 💻 Fluent in
 
 ![JavaScript](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)

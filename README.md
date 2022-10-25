@@ -23,11 +23,11 @@ I'm Benjamin Gonzalez. I enjoy learning, coding, experimenting, and video games.
 ## 📢 Latest blog posts
 
 <!-- BLOG:START -->
+- [Lightning is dead, long live USB-C!](http://randomblock1.com/blog/lightning-is-dead/)
 - [How to Quit GlobalProtect on macOS &lpar;without it relaunching itself&rpar;](http://randomblock1.com/blog/quit-globalprotect-macos/)
 - [Mass Convert Videos with FFmpeg and PowerShell](http://randomblock1.com/blog/ffmpeg-mass-convert-powershell/)
 - [Use Sudo with Touch ID](http://randomblock1.com/blog/sudo-with-touchid/)
 - [How to 100% Unlock LHR on Nvidia RTX GPUs &lpar;HiveOS&rpar;](http://randomblock1.com/blog/lhr-full-unlock/)
-- [Raspberry Pi Day](http://randomblock1.com/blog/raspberry-pi-day/)
 <!-- BLOG:END -->
 
 ## 📪 Contact me

@@ -2,22 +2,21 @@
 
 [![my blog](https://img.shields.io/badge/blog-randomblock1.com-00adb5?style=for-the-badge)](https://randomblock1.com)
 ![i major in computer science](https://img.shields.io/badge/major-computer%20science-blueviolet?style=for-the-badge)
-![18 years old](https://img.shields.io/badge/age-18-green?style=for-the-badge)
 
 ## 🤝 Nice to meet you
 
-I'm Benjamin Gonzalez. I enjoy learning, coding, experimenting, and video games. I'm going to attend the University of Wisconsin-Madison as a Computer Science student. I'll occasionally write a blog post or two.
+I'm Benjamin Gonzalez. I enjoy learning, coding, making, and video games. I'm attending the University of Wisconsin-Madison as a Computer Science student. I'll occasionally write a blog post or two.
 
 ## 💻 Fluent in
 
 ![JavaScript](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 📚 Learning
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## 📢 Latest blog posts
@@ -32,13 +31,15 @@ I'm Benjamin Gonzalez. I enjoy learning, coding, experimenting, and video games.
 
 ## 📪 Contact me
 
-Click the badge to contact me.
+Click the badge. You know you want to.
 
 [![click here to email me](https://img.shields.io/badge/ProtonMail-preferred-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:randomblock1@protonmail.com)
 
 [![click here to follow me on twitter](https://img.shields.io/badge/Twitter-follow_me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@randomblock1_)
 
-[![steam](https://img.shields.io/badge/Steam-why_is_this_here-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/randomblock1)
+[![click here to follow me on mastodon in case twitter implodes](https://img.shields.io/badge/Mastodon-in_case_twitter_implodes-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@randomblock1)
+
+[![steam](https://img.shields.io/badge/Steam-why_is_this_here%3f%3f%3f-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/randomblock1)
 
 ## 🖥 Computer specs
 

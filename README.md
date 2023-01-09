@@ -37,9 +37,9 @@ Click the badge. You know you want to.
 
 [![click here to follow me on twitter](https://img.shields.io/badge/Twitter-follow_me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@randomblock1_)
 
-[![click here to follow me on mastodon in case twitter implodes](https://img.shields.io/badge/Mastodon-in_case_twitter_implodes-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@randomblock1)
+[![click here to follow me on mastodon in case twitter implodes](https://img.shields.io/badge/Mastodon-since_twitter_imploded-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@randomblock1)
 
-[![steam](https://img.shields.io/badge/Steam-why_is_this_here%3f%3f%3f-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/randomblock1)
+[![linkedin](https://img.shields.io/badge/LinkedIn-hire_me_please-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/benjamin-m-gonzalez/)
 
 ## 🖥 Computer specs
 

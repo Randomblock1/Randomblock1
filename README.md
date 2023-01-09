@@ -16,8 +16,8 @@ I'm Benjamin Gonzalez. I enjoy learning, coding, making, and video games. I'm at
 
 ## 📚 Learning
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-0553B1?&style=for-the-badge&logo=flutter&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-B7410E?&style=for-the-badge&logo=rust&logoColor=white)
 
 ## 📢 Latest blog posts
 

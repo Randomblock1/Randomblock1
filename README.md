@@ -10,8 +10,9 @@ I'm Benjamin Gonzalez. I enjoy learning, coding, making, and video games. I'm at
 ## 💻 Fluent in
 
 ![Java](https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML\/CSS-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 📚 Learning
@@ -43,7 +44,7 @@ Click the badge. You know you want to.
 
 ## 🖥 Computer specs
 
-![2020 M1 MacBook Air](https://img.shields.io/badge/M1_MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white)
+![Framework 13 (Ryzen 7 7840u)](https://img.shields.io/badge/Framework_13_(Ryzen_7_7840u)-000000?style=for-the-badge&logo=framework&logoColor=white)
 
 ![rtx 3070](https://img.shields.io/badge/RTX_3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![ryzen 5 5600](https://img.shields.io/badge/Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)

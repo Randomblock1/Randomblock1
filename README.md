@@ -11,6 +11,8 @@ I'm Benjamin Gonzalez. I enjoy learning, coding, making, and video games. I'm at
 
 ![Java](https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML\/CSS-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -36,11 +38,11 @@ Click the badge. You know you want to.
 
 [![click here to email me](https://img.shields.io/badge/ProtonMail-preferred-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:randomblock1@protonmail.com)
 
-[![click here to follow me on twitter](https://img.shields.io/badge/Twitter-follow_me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@randomblock1_)
+[![click here to follow me on mastodon since twitter imploded](https://img.shields.io/badge/Mastodon-since_twitter_imploded-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@randomblock1)
 
-[![click here to follow me on mastodon in case twitter implodes](https://img.shields.io/badge/Mastodon-since_twitter_imploded-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@randomblock1)
+[![click here to follow me on twitter](https://img.shields.io/badge/Twitter-follow_me-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/@randomblock1_)
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-hire_me_please-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/benjamin-m-gonzalez/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-open_to_work-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/benjamin-m-gonzalez/)
 
 ## 🖥 Computer specs
 
@@ -53,6 +55,6 @@ Click the badge. You know you want to.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=randomblock1&theme=blue-green)
 
-![badges](https://img.shields.io/badge/badges_put_here-18-blue?style=for-the-badge)
+![badges](https://img.shields.io/badge/badges_put_here-20-blue?style=for-the-badge)
 
 ![](https://hit.yhype.me/github/profile?user_id=19873803)

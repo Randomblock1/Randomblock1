@@ -58,6 +58,6 @@ Click the badge. You know you want to.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=randomblock1&theme=blue-green)
 
-![badges](https://img.shields.io/badge/badges_put_here-20-blue?style=for-the-badge)
+![badges](https://img.shields.io/badge/badges_put_here-22-blue?style=for-the-badge)
 
 ![](https://hit.yhype.me/github/profile?user_id=19873803)

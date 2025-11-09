@@ -34,7 +34,7 @@ I have experience & knowledge in many others, too. These are just my most used.
 
 ## 📪 Contact me
 
-[![email](https://img.shields.io/badge/ProtonMail-preferred-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:randomblock1@protonmail.com)
+[![email](https://img.shields.io/badge/ProtonMail-preferred-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:randomblock1@pm.me)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-open_to_work-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/benjamin-m-gonzalez/)
 

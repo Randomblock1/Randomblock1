@@ -25,11 +25,11 @@ I have experience & knowledge in many others, too. These are just my most used.
 ## 📢 Latest blog posts
 
 <!-- BLOG:START -->
+- [Use Cursor Composer 2.5 Anywhere With an OpenAI-Compatible API](http://randomblock1.com/blog/cursor-openai-proxy)
 - [Speeding up Gemini CLI 2x with Bun](http://randomblock1.com/blog/speedup-gemini-cli-bun)
 - [Smartifying a Dumb Fan, and understanding the NEC protocol](http://randomblock1.com/blog/smartifying-dumb-fan)
 - [Installing XNU Headers on MacOS 13](http://randomblock1.com/blog/installing-xnu-headers-macos-12)
 - [Mass Convert Videos with FFmpeg and PowerShell](http://randomblock1.com/blog/ffmpeg-mass-convert-powershell)
-- [Use Sudo with Touch ID](http://randomblock1.com/blog/sudo-with-touchid)
 <!-- BLOG:END -->
 
 ## 📪 Contact me

@@ -1,11 +1,11 @@
 # 👋 Hi there
 
 [![my blog](https://img.shields.io/badge/blog-randomblock1.com-00adb5?style=for-the-badge)](https://randomblock1.com)
-[![i major in computer science](https://img.shields.io/badge/major-computer%20science-blueviolet?style=for-the-badge)](https://http.cat/404)
+[![graduated in computer science](https://img.shields.io/badge/degree-computer%20science-blueviolet?style=for-the-badge)](https://http.cat/404)
 
 ## 🤝 Nice to meet you
 
-I'm Benjamin Gonzalez. I enjoy learning, coding, and making. I'm attending the University of Wisconsin-Madison as a Computer Science student. I'll occasionally write a blog post or two.
+I'm Benjamin Gonzalez. I enjoy learning, coding, and making. I've graudated the University of Wisconsin-Madison as a Computer Science Bachelor of Science. I'll occasionally write a blog post or two.
 
 ## 💻 Fluent in
 
@@ -21,6 +21,7 @@ I have experience & knowledge in many others, too. These are just my most used.
 ## 📚 Learning
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ## 📢 Latest blog posts
 
